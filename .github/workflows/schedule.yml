@@ -2,4 +2,5 @@ on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
   workflow_dispatch:
-    process_files.yml
+    - jobs:
+      process_files.yml
