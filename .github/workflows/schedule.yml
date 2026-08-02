@@ -2,8 +2,10 @@ name: Schedule Workflow Dispatch
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch:
 jobs:
     schedule:
       runs-on: ubuntu-latest
-     workflow: 'process_files.yml'
+      name: Update source files
+        curl -sSL "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt" -o source_files/doh-vpn-proxy-bypass-onlydomains.txt
+        curl -sSL "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt" -o source_files/tif-onlydomains.txt
+        curl -sSL "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt" -o source_files/pro-onlydomains.txt
