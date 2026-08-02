@@ -30,7 +30,7 @@ jobs:
           # Define targets
           input_dir = "source_files"
           output_dir = "processed_files"
-          target_files = ["source1.txt", "source2.txt", "source3.txt"]
+          target_files = ["pro-onlydomains.txt", "doh-vpn-proxy-bypass-onlydomains.txt", "tif-onlydomains.txt"]
 
           os.makedirs(output_dir, exist_ok=True)
 
