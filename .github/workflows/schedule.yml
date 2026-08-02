@@ -1,6 +1,13 @@
+name: Schedule Workflow Dispatch
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
   workflow_dispatch:
-    - jobs:
-      process_files.yml
+  jobs:
+    schedule:
+    name: Schedule
+    runs-on: ubuntu-latest
+    steps:
+      - uses: austenstone/schedule@v1.3
+        with:
+          workflow: 'process_files.yml'
