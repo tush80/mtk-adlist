@@ -1,4 +1,4 @@
-name: Schedule Workflow Dispatch
+name: Schedule Source Files Download
 on:
   schedule:
     - cron: '22 0 * * *'
