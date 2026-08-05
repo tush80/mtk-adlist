@@ -1,0 +1,43 @@
+name: Process Domain Files
+
+on:
+  schedule:
+    # 22:50 UTC corresponds to 01:50 EEST (Sofia Daylight Saving Time, UTC+3)
+    # 23:50 UTC corresponds to 01:50 EET (Sofia Standard Time, UTC+2)
+    # Standard schedule set to 22:50 UTC for default summer coverage:
+    - cron: '50 22 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI for testing
+
+jobs:
+  process-files:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Required to commit processed files back to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Process domain files
+        run: |
+          FILES=(
+            "pro-onlydomains.txt"
+            "doh-vpn-proxy-bypass-onlydomains.txt"
+            "tif-onlydomains.txt"
+          )
+
+          for file in "${FILES[@]}"; do
+            SRC_PATH="source_files/$file"
+            DEST_PATH="processed_files/$file"
+
+            if [ -f "$SRC_PATH" ]; then
+              # 1. 'grep -v "^#"' removes comment lines starting with #
+              # 2. 'grep -v "^$"' strips empty/blank lines
+              # 3. 'sed' prepends "0.0.0.0 " to each line
+              grep -v '^#' "$SRC_PATH" | grep -v '^$' | sed 's/^/0.0.0.0 /' > "$DEST_PATH"
+              echo "Processed $SRC_PATH -> $DEST_PATH"
+            else
+              echo "Warning: $SRC_PATH not found, skipping."
+            fi
+          done
