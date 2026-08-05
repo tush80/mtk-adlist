@@ -2,10 +2,8 @@ name: Process Domain Files
 
 on:
   schedule:
-    # 22:50 UTC corresponds to 01:50 EEST (Sofia Daylight Saving Time, UTC+3)
-    # 23:50 UTC corresponds to 01:50 EET (Sofia Standard Time, UTC+2)
-    # Standard schedule set to 22:50 UTC for default summer coverage:
-    - cron: '50 22 * * *'
+       - cron: '50 1 * * *'
+         timezone: "Europe/Sofia"
   workflow_dispatch: # Allows manual trigger from GitHub UI for testing
 
 jobs:
