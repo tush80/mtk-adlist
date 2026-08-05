@@ -1,7 +1,7 @@
 name: Schedule Source Files Download
 on:
   schedule:
-    - cron: '36 6 * * *'
+    - cron: '50 6 * * *'
       timezone: "Europe/Sofia"
 jobs: 
     update_lists:
