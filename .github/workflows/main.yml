@@ -1,5 +1,6 @@
 name: Schedule Source Files Download
 on:
+  workflow_dispatch:
   schedule:
     - cron: '50 6 * * *'
       timezone: "Europe/Sofia"
