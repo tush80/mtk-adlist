@@ -1,7 +1,7 @@
 name: Schedule Source Files Download
 on:
   schedule:
-    - cron: '22 0 * * *'
+    - cron: '22 6 * * *'
 jobs: 
     update_lists:
       runs-on: ubuntu-latest
