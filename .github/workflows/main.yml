@@ -1,7 +1,8 @@
 name: Schedule Source Files Download
 on:
   schedule:
-    - cron: '22 6 * * *'
+    - cron: '36 6 * * *'
+      timezone: "Europe/Sofia"
 jobs: 
     update_lists:
       runs-on: ubuntu-latest
