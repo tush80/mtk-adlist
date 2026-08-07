@@ -3082,7 +3082,6 @@
 0.0.0.0 zva-186.global.ssl.fastly.net
 0.0.0.0 waterfox-ohttp-relay.fastly-edge.com
 0.0.0.0 adh.fastpacefixit.info
-0.0.0.0 hence.fatdiary.org
 0.0.0.0 api.fatibara.com
 0.0.0.0 adguardhome.favrep.ovh
 0.0.0.0 dns2.fawz.de
@@ -3127,9 +3126,7 @@
 0.0.0.0 study.tests.fiat500.li
 0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 collegeprep.fin-tech.com
 0.0.0.0 learngeometryfr.fin-tech.com
-0.0.0.0 nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi
 0.0.0.0 canvas-math-tools.firebaseapp.com
 0.0.0.0 infamous-scram-test.firebaseapp.com
 0.0.0.0 quix-vpn.firebaseapp.com
@@ -3143,8 +3140,6 @@
 0.0.0.0 xcomvpn-7000b-default-rtdb.firebaseio.com
 0.0.0.0 fpn.firefox.com
 0.0.0.0 testpilot.firefox.com
-0.0.0.0 food.fit-tw.com
-0.0.0.0 voidbyvcsa.fit-tw.com
 0.0.0.0 chart.books.fivepals.com
 0.0.0.0 adg.fiyaajans.com
 0.0.0.0 dns.fizz.studio
@@ -3185,11 +3180,6 @@
 0.0.0.0 ro-bu.foxyfy.net
 0.0.0.0 us-ny.foxyfy.net
 0.0.0.0 us-sj.foxyfy.net
-0.0.0.0 ahhhh.fqcomics.cl
-0.0.0.0 goon.fqcomics.cl
-0.0.0.0 school.fqcomics.cl
-0.0.0.0 sup.fqcomics.cl
-0.0.0.0 uniub.fqcomics.cl
 0.0.0.0 adgd.fragmentance.ru
 0.0.0.0 dns.family.fraiss.at
 0.0.0.0 resolver.frank-ruan.com
@@ -3234,8 +3224,6 @@
 0.0.0.0 pt6cs47n.frogseducation.life
 0.0.0.0 ivica-vulas.from.hr
 0.0.0.0 securly.com.frostcatcher.com
-0.0.0.0 avidislife.frostcatcher.com
-0.0.0.0 classroom.frostcatcher.com
 0.0.0.0 dns.froth.zone
 0.0.0.0 dns.fsociety.club
 0.0.0.0 ychk.ft1991.top
@@ -3247,7 +3235,6 @@
 0.0.0.0 doh.funtopia.tv
 0.0.0.0 dns.furrix.zone
 0.0.0.0 dns.furrydns.de
-0.0.0.0 furriesarecute.furryplace.eu
 0.0.0.0 endis.furryporn.pics
 0.0.0.0 papi.fusionsai.net
 0.0.0.0 doh.futa.app
@@ -3274,7 +3261,6 @@
 0.0.0.0 learnvcsa.gearenergy.com
 0.0.0.0 dns.gearworks.app
 0.0.0.0 bg.geek.nz
-0.0.0.0 dns.geekbyte.de
 0.0.0.0 adg.geili.me
 0.0.0.0 www-proxy.gelaxiz.xyz
 0.0.0.0 nodes.gen4.ninja
@@ -10060,7 +10046,6 @@
 0.0.0.0 fbaffa04.cc
 0.0.0.0 fbaffa05.cc
 0.0.0.0 fbaffa06.cc
-0.0.0.0 fbcfqpow.cc
 0.0.0.0 fc01-ne6s3ngb.top
 0.0.0.0 fc02-lsb1l5ig.top
 0.0.0.0 fc5eyro1.com
@@ -10082,8 +10067,6 @@
 0.0.0.0 feishayun.net
 0.0.0.0 feishayun.pro
 0.0.0.0 feisucloud.com
-0.0.0.0 feisucloud.net
-0.0.0.0 feisucloud.pw
 0.0.0.0 feitan.cloud
 0.0.0.0 feitan.me
 0.0.0.0 feiyujiasu.net
@@ -10170,10 +10153,8 @@
 0.0.0.0 fkeyvpn.biz
 0.0.0.0 fkeyvpn.help
 0.0.0.0 fkeyvpn.lol
-0.0.0.0 fkxdhhyd.com
 0.0.0.0 fkyaejnl.cc
 0.0.0.0 flame-vpn.com
-0.0.0.0 flamecore.ir
 0.0.0.0 flameproxies.com
 0.0.0.0 flarevpn.digital
 0.0.0.0 flashcarder.net
@@ -10287,14 +10268,12 @@
 0.0.0.0 free-vpn.xyz
 0.0.0.0 free-vpn-planet.net
 0.0.0.0 free-vpnapp.com
-0.0.0.0 free-vpnplanet.net
 0.0.0.0 free-vpnplanet-ru.net
 0.0.0.0 free-webproxy.com
 0.0.0.0 free2surfvpn.com
 0.0.0.0 freeanimesonline.com
 0.0.0.0 freebrowser.org
 0.0.0.0 freecanadavpn.com
-0.0.0.0 freecavpn.com
 0.0.0.0 freecityvpn.com
 0.0.0.0 freecodecamp.gq
 0.0.0.0 freecodecamp.tk
@@ -10337,7 +10316,6 @@
 0.0.0.0 freeruleonline.xyz
 0.0.0.0 freeruproxy.ink
 0.0.0.0 freesafeip.com
-0.0.0.0 freeshadowsock.com
 0.0.0.0 freeshophub.top
 0.0.0.0 freesocks.work
 0.0.0.0 freesupervpn.com
