@@ -2805,6 +2805,7 @@
 0.0.0.0 yuhsce.easterndns.com
 0.0.0.0 yuudai-shadow.easterndns.com
 0.0.0.0 yuzu.easterndns.com
+0.0.0.0 dns.easyhns.com
 0.0.0.0 ajh.eats-logi.lol
 0.0.0.0 emis-kf-homework.echofx.com
 0.0.0.0 emis-tech.echofx.com
@@ -3772,6 +3773,7 @@
 0.0.0.0 vocab.clever.jaytex.org
 0.0.0.0 argus1.jcconnell.com
 0.0.0.0 dns.jd.com
+0.0.0.0 6767alpharizzmath.jdymqic.shop
 0.0.0.0 securly.com.jedimasters.net
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 host.jerry-lee.uk
@@ -3984,6 +3986,7 @@
 0.0.0.0 us1.dns.lavate.ch
 0.0.0.0 dns.lavir.com
 0.0.0.0 iterator.lazada.com
+0.0.0.0 akanetheghost.lbry.ru
 0.0.0.0 alumn.history.ldop.com
 0.0.0.0 adguard1.leadmon.net
 0.0.0.0 adguard2.leadmon.net
@@ -6279,6 +6282,7 @@
 0.0.0.0 0h6v3eg8.com
 0.0.0.0 0l682vm5.com
 0.0.0.0 0ms.dev
+0.0.0.0 0n0fzcp.online
 0.0.0.0 0x3d.lu
 0.0.0.0 100802e6778a29189f9aa2c0c3ce026d9a0a7005.com
 0.0.0.0 103prxy.com
@@ -6290,6 +6294,7 @@
 0.0.0.0 123-proxy.net
 0.0.0.0 123-proxy.org
 0.0.0.0 123000123.xyz
+0.0.0.0 12312300.xyz
 0.0.0.0 123417.xyz
 0.0.0.0 123adsas.store
 0.0.0.0 123ani.me
@@ -6307,11 +6312,14 @@
 0.0.0.0 123me.net
 0.0.0.0 123music.app
 0.0.0.0 123proxy.app
+0.0.0.0 123proxy.biz
 0.0.0.0 123proxy.me
 0.0.0.0 123roms.com
 0.0.0.0 123sports.org
 0.0.0.0 123streaming.org
+0.0.0.0 123superproxy.com
 0.0.0.0 123torr.com
+0.0.0.0 123ultraproxy.com
 0.0.0.0 123xhj.com
 0.0.0.0 12vpn.help
 0.0.0.0 12vpx.com
@@ -6580,6 +6588,7 @@
 0.0.0.0 9184e7e5d684dc56def4c6186122231660620807.com
 0.0.0.0 91ftq.com
 0.0.0.0 91odd37p.com
+0.0.0.0 91vpn02.cfd
 0.0.0.0 91zfdao.com
 0.0.0.0 9249c7687ddbc42eb7167e0e9030ef06b9528c98.com
 0.0.0.0 92fb0f698843648d5b6a5a7c754055e5.top
@@ -6856,6 +6865,7 @@
 0.0.0.0 aicx99.shop
 0.0.0.0 aihe.app
 0.0.0.0 aiiaguli.info
+0.0.0.0 ailivechatweb.com
 0.0.0.0 ailogogenerator.top
 0.0.0.0 ainavigate.app
 0.0.0.0 aioz.network
@@ -10580,6 +10590,7 @@
 0.0.0.0 hmx.name
 0.0.0.0 hmy.name
 0.0.0.0 hndaocaorenly.cn
+0.0.0.0 hnsdoh.com
 0.0.0.0 hnveiere.com
 0.0.0.0 hockeybet.org
 0.0.0.0 hodraf.com
@@ -14733,6 +14744,7 @@
 0.0.0.0 tor2web.it
 0.0.0.0 tor2web.org
 0.0.0.0 tor2web.ru
+0.0.0.0 tor2web.to
 0.0.0.0 torguard.biz
 0.0.0.0 torguard.co
 0.0.0.0 torguard.com
