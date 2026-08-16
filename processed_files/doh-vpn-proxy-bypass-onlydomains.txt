@@ -306,7 +306,13 @@
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
 0.0.0.0 tech.vcsa.alcrb.ru
+0.0.0.0 dns.alekberg.net
+0.0.0.0 dns2.alekberg.net
+0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
+0.0.0.0 dnsnl-noads.alekberg.net
+0.0.0.0 dnsse.alekberg.net
+0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 odoh-target.alekberg.net
 0.0.0.0 odoh-target-noads-se.alekberg.net
 0.0.0.0 odoh-target-se.alekberg.net
@@ -748,6 +754,7 @@
 0.0.0.0 r.britannica.cf
 0.0.0.0 agh.broaddy.com
 0.0.0.0 dns.brono.cloud
+0.0.0.0 blooket.broomleigh.org
 0.0.0.0 classroom.broomleigh.org
 0.0.0.0 home.bruckmoser.it
 0.0.0.0 81.brudnowski.eu
@@ -758,6 +765,7 @@
 0.0.0.0 tests.ela.btbtrading.it
 0.0.0.0 www-reflect4.buachi.work
 0.0.0.0 goose.buckyfan.net
+0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 romathebest.bumbleshrimp.com
 0.0.0.0 dns.burgas.pro
@@ -1913,6 +1921,7 @@
 0.0.0.0 vp.what.cloudns.nz
 0.0.0.0 9132706292.cloudns.be
 0.0.0.0 zeusvps.cloudns.nz
+0.0.0.0 dns-secondary.cloudnx.cloud
 0.0.0.0 dns.cloudseriousshit.com
 0.0.0.0 dns.cloudtrust.solutions
 0.0.0.0 ca.doh.cloudveil.org
@@ -2256,6 +2265,7 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 shadow.curesoutpost.com
 0.0.0.0 dns.cwlys.com
+0.0.0.0 diddyblud.cxhzegpg.shop
 0.0.0.0 gc.cyberbeta.cn
 0.0.0.0 nanopi.cybergroove.net
 0.0.0.0 dns.cybertonic.tech
@@ -2294,6 +2304,7 @@
 0.0.0.0 math.davidandasabi.org
 0.0.0.0 rammer.davispetsitter.com
 0.0.0.0 dns.daw.dev
+0.0.0.0 eq.dawuiiwauidwahyuiwahuioqwd.site
 0.0.0.0 httpdns.platform.dbankcloud.cn
 0.0.0.0 httpdns.platform.dbankcloud.com
 0.0.0.0 httpdns-browser.platform.dbankcloud.cn
@@ -2461,6 +2472,7 @@
 0.0.0.0 dns.dlinders.nl
 0.0.0.0 home.dlinkddns.com
 0.0.0.0 edulearnisgood.dmtr.ru
+0.0.0.0 deep-sea.dns.navy
 0.0.0.0 fargos2.dns.army
 0.0.0.0 homec92.dns.army
 0.0.0.0 dns.dns-53.com
@@ -3182,6 +3194,7 @@
 0.0.0.0 doh.funtopia.tv
 0.0.0.0 dns.furrix.zone
 0.0.0.0 dns.furrydns.de
+0.0.0.0 furriesarecute.furryplace.eu
 0.0.0.0 endis.furryporn.pics
 0.0.0.0 papi.fusionsai.net
 0.0.0.0 doh.futa.app
@@ -3347,6 +3360,7 @@
 0.0.0.0 dns.gsmseti.net
 0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 dns.guard.io
+0.0.0.0 dns.guardmydns.com
 0.0.0.0 brave-soul-210.guesstheanimal.org
 0.0.0.0 fair-earth-131.guesstheanimal.org
 0.0.0.0 kind-bear-497.guesstheanimal.org
@@ -3664,6 +3678,7 @@
 0.0.0.0 ineedmoreips.agguiopz.ip-dynamic.org
 0.0.0.0 earn-api.ipht.net
 0.0.0.0 dns.ipoac.nl
+0.0.0.0 www-webproxy.ipstar.io
 0.0.0.0 www.nogfdb.ipv64.net
 0.0.0.0 gigya.wqwfhjkk.ipv64.net
 0.0.0.0 www.yuzutyan-3.ipv64.net
@@ -3773,6 +3788,7 @@
 0.0.0.0 vocab.clever.jaytex.org
 0.0.0.0 argus1.jcconnell.com
 0.0.0.0 dns.jd.com
+0.0.0.0 anyweatherispepsiweather.1903.jdymqic.shop
 0.0.0.0 6767alpharizzmath.jdymqic.shop
 0.0.0.0 securly.com.jedimasters.net
 0.0.0.0 doh.jeroenhd.nl
@@ -3987,6 +4003,7 @@
 0.0.0.0 dns.lavir.com
 0.0.0.0 iterator.lazada.com
 0.0.0.0 akanetheghost.lbry.ru
+0.0.0.0 edmentum-reading.lbry.ru
 0.0.0.0 alumn.history.ldop.com
 0.0.0.0 adguard1.leadmon.net
 0.0.0.0 adguard2.leadmon.net
@@ -4431,6 +4448,7 @@
 0.0.0.0 guard-jkt-225.glosindo.net.id
 0.0.0.0 dns1.gms.net.id
 0.0.0.0 dns2.gms.net.id
+0.0.0.0 doh.infotek.net.id
 0.0.0.0 br.lfac.net.br
 0.0.0.0 us.lfac.net.br
 0.0.0.0 doh.max.net.id
@@ -4497,6 +4515,7 @@
 0.0.0.0 adguard.nielsenhost.dk
 0.0.0.0 dns.nieto.app
 0.0.0.0 dns.niffelen.com
+0.0.0.0 endis.niggersbigballs.xyz
 0.0.0.0 panel.mc.night-x.com
 0.0.0.0 useast1.vps.night-x.com
 0.0.0.0 staffsmp.night-x.com
@@ -4605,6 +4624,7 @@
 0.0.0.0 wise-bear-455.nowgg.me
 0.0.0.0 dns.npe.bz
 0.0.0.0 adguard.npglocal.com
+0.0.0.0 dns.npsolution.it
 0.0.0.0 api.npvu.me
 0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
@@ -5718,6 +5738,7 @@
 0.0.0.0 dns.thore.cloud
 0.0.0.0 topic.know.ticpu.net
 0.0.0.0 fdfhgbv.ticsur.cl
+0.0.0.0 education.timbalemail.com
 0.0.0.0 dns.timboeh.me
 0.0.0.0 ad.timefine.org
 0.0.0.0 httpsingsnode.timegear.site
@@ -5884,6 +5905,7 @@
 0.0.0.0 webproxy.us.com
 0.0.0.0 dns.usualposts.xyz
 0.0.0.0 coolguy.uzhi.ru
+0.0.0.0 edge-v6x.v6.rocks
 0.0.0.0 cc2.v8er.net
 0.0.0.0 luminal.vacte.org
 0.0.0.0 dns.vaguthu.mv
@@ -6019,6 +6041,7 @@
 0.0.0.0 dns.wargan.io
 0.0.0.0 albertcoolters.server.warhawkenterprises.com
 0.0.0.0 abel.waringer-atg.de
+0.0.0.0 dns.warma.me
 0.0.0.0 new-nah.warning.cx
 0.0.0.0 support.warning.cx
 0.0.0.0 dns.warpnine.de
@@ -6239,6 +6262,7 @@
 0.0.0.0 dns.zmobiletech.com
 0.0.0.0 01100010011011000110111101100011011010110110110101100101.zone.id
 0.0.0.0 cooluniverse-galaxy.zone.id
+0.0.0.0 doxy.zone.id
 0.0.0.0 frogieeisback-edu.zone.id
 0.0.0.0 funny-white-elephant.zone.id
 0.0.0.0 lumi.zone.id
@@ -7016,12 +7040,14 @@
 0.0.0.0 anura.pro
 0.0.0.0 anyip.io
 0.0.0.0 anyone.io
+0.0.0.0 anyone.me
 0.0.0.0 anyone.tech
 0.0.0.0 aoboesd.com
 0.0.0.0 aox666.com
 0.0.0.0 aox777.xyz
 0.0.0.0 aoxblog.com
 0.0.0.0 aoxera.xyz
+0.0.0.0 aoxinvite.com
 0.0.0.0 aoxjiasu.com
 0.0.0.0 aoxjsq666.com
 0.0.0.0 aoxlink.com
@@ -7101,6 +7127,7 @@
 0.0.0.0 ark.to
 0.0.0.0 ark-vpn.com
 0.0.0.0 arnsvr.site
+0.0.0.0 arrives.run
 0.0.0.0 artclass.site
 0.0.0.0 artsineducation.net
 0.0.0.0 aryttnis.cc
@@ -7401,6 +7428,7 @@
 0.0.0.0 bestcyberpunk.com
 0.0.0.0 bestdaishu.com
 0.0.0.0 bestdaxiang.com
+0.0.0.0 bestdaygame.com
 0.0.0.0 bestdbd.com
 0.0.0.0 bestdengta.com
 0.0.0.0 bestdianbao.com
@@ -8109,10 +8137,12 @@
 0.0.0.0 cj1k.net
 0.0.0.0 cjagirmnv8ukgdscrqnd6b9ui.online
 0.0.0.0 cjwhahqi.com
+0.0.0.0 clash-for-ios.com
 0.0.0.0 clash-mi.org
 0.0.0.0 clash-party.org
 0.0.0.0 clashappx.com
 0.0.0.0 clashforandroid.org
+0.0.0.0 clashformac.com
 0.0.0.0 clashforwindows.org
 0.0.0.0 clashgithub.com
 0.0.0.0 clashgui.com
@@ -8329,6 +8359,7 @@
 0.0.0.0 ctilqhzv.cc
 0.0.0.0 ctkangh.cn
 0.0.0.0 cubedns.com
+0.0.0.0 cubixpvp.net
 0.0.0.0 cudfhbej.com
 0.0.0.0 cuisine.run
 0.0.0.0 cuknrz.top
@@ -8450,6 +8481,7 @@
 0.0.0.0 defencevpn.com
 0.0.0.0 defendfrienddns.fyi
 0.0.0.0 defilter.us
+0.0.0.0 defined.pics
 0.0.0.0 definitechaos.org
 0.0.0.0 defyxvpn.com
 0.0.0.0 dehb.ru
@@ -8599,6 +8631,7 @@
 0.0.0.0 dofpsgame.com
 0.0.0.0 dofqtz.com
 0.0.0.0 dofree.net
+0.0.0.0 dofur.ru
 0.0.0.0 dog-auto-one.click
 0.0.0.0 dog-auto-two.click
 0.0.0.0 dogalaxy.net
@@ -8839,6 +8872,7 @@
 0.0.0.0 e85dba3b6cc1a69916a865932dca01b75f522b03.com
 0.0.0.0 e9a69782e0a4bf88513c1447548cb33e44737c0c.com
 0.0.0.0 ea915934c6496470ba3124cecb507097a25628a5.com
+0.0.0.0 eaglercraft.shop
 0.0.0.0 eajigz44.com
 0.0.0.0 earn.cc
 0.0.0.0 earnapp.com
