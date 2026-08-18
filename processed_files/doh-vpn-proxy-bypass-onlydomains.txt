@@ -2015,6 +2015,7 @@
 0.0.0.0 nordvpn.co.za
 0.0.0.0 onlineproxy.co.uk
 0.0.0.0 pooblet.co.za
+0.0.0.0 proxay.co.uk
 0.0.0.0 proxify.co.uk
 0.0.0.0 proxywebsite.co.uk
 0.0.0.0 readingforfun.co.com
@@ -2269,6 +2270,9 @@
 0.0.0.0 shadow.curesoutpost.com
 0.0.0.0 dns.cwlys.com
 0.0.0.0 diddyblud.cxhzegpg.shop
+0.0.0.0 slammpstudysfr.cxhzegpg.shop
+0.0.0.0 spongebob.cxhzegpg.shop
+0.0.0.0 uhhidk.cxhzegpg.shop
 0.0.0.0 gc.cyberbeta.cn
 0.0.0.0 nanopi.cybergroove.net
 0.0.0.0 dns.cybertonic.tech
@@ -2308,6 +2312,7 @@
 0.0.0.0 rammer.davispetsitter.com
 0.0.0.0 dns.daw.dev
 0.0.0.0 eq.dawuiiwauidwahyuiwahuioqwd.site
+0.0.0.0 science.dawuiiwauidwahyuiwahuioqwd.site
 0.0.0.0 httpdns.platform.dbankcloud.cn
 0.0.0.0 httpdns.platform.dbankcloud.com
 0.0.0.0 httpdns-browser.platform.dbankcloud.cn
@@ -3755,6 +3760,7 @@
 0.0.0.0 math.isreally.pro
 0.0.0.0 smellyal.isreally.pro
 0.0.0.0 smellypay.isreally.pro
+0.0.0.0 stuffyschicken.isreallycool.lol
 0.0.0.0 abc123.welltypers.it.com
 0.0.0.0 6741.it.com
 0.0.0.0 goodfast.it.com
@@ -3796,6 +3802,7 @@
 0.0.0.0 argus1.jcconnell.com
 0.0.0.0 dns.jd.com
 0.0.0.0 anyweatherispepsiweather.1903.jdymqic.shop
+0.0.0.0 s8.amazonaws.jdymqic.shop
 0.0.0.0 ijustwanttstowork.dsylexia.jdymqic.shop
 0.0.0.0 6767alpharizzmath.jdymqic.shop
 0.0.0.0 securly.com.jedimasters.net
@@ -4208,6 +4215,7 @@
 0.0.0.0 ss.microbaidu.com
 0.0.0.0 doh.micronets.in
 0.0.0.0 proxysmart.microyiappstudio.com
+0.0.0.0 www-proxy.migastep.com
 0.0.0.0 spoap.miguelcarrasco.net
 0.0.0.0 dns.mihalcea.eu
 0.0.0.0 agh.mihanentalpo.me
@@ -4523,6 +4531,7 @@
 0.0.0.0 adguard.nielsenhost.dk
 0.0.0.0 dns.nieto.app
 0.0.0.0 dns.niffelen.com
+0.0.0.0 who.made.the.domain.bro.niggersbigballs.xyz
 0.0.0.0 endis.niggersbigballs.xyz
 0.0.0.0 panel.mc.night-x.com
 0.0.0.0 useast1.vps.night-x.com
@@ -5653,6 +5662,7 @@
 0.0.0.0 teach.state.teachmetofish.net
 0.0.0.0 dns.teaminfo.fr
 0.0.0.0 arab.is.goated.teamradicus.com
+0.0.0.0 vpn.adrielso.tec.br
 0.0.0.0 dns-br.leonardo.tec.br
 0.0.0.0 dns.techcpu.net
 0.0.0.0 dns1.techeasy.org
@@ -6179,6 +6189,7 @@
 0.0.0.0 dns.xcapenet.ru
 0.0.0.0 doh.xcom.pro
 0.0.0.0 gog.xena.wtf
+0.0.0.0 www-bruh.xenon.lol
 0.0.0.0 vsrv15195.customer.xenway.de
 0.0.0.0 doh2.gslb2.xfinity.com
 0.0.0.0 doh.xfinity.com
@@ -6221,6 +6232,7 @@
 0.0.0.0 endis.ydns.eu
 0.0.0.0 poobungus.ydns.eu
 0.0.0.0 rammer3-haihu-bynyanko.ydns.eu
+0.0.0.0 sg.yepdns.com
 0.0.0.0 adguard.ygd.lol
 0.0.0.0 edge-intl.ygjs.org
 0.0.0.0 ns6.ygy.ru
@@ -8135,6 +8147,7 @@
 0.0.0.0 christophbrem.com
 0.0.0.0 chrome-vpntype.com
 0.0.0.0 chromeclass.help
+0.0.0.0 chromeproxy.net
 0.0.0.0 chromeq.com
 0.0.0.0 chromevpn.homes
 0.0.0.0 chsvutul.com
@@ -13252,6 +13265,7 @@
 0.0.0.0 pork.icu
 0.0.0.0 pork.immo
 0.0.0.0 porkssr.com
+0.0.0.0 portalssh.com
 0.0.0.0 portbj.xyz
 0.0.0.0 portbuddy.dev
 0.0.0.0 portionsigh.com
@@ -13454,6 +13468,7 @@
 0.0.0.0 proxydb.net
 0.0.0.0 proxydrop.com
 0.0.0.0 proxydude.faith
+0.0.0.0 proxydude.xyz
 0.0.0.0 proxyelite.info
 0.0.0.0 proxyempire.io
 0.0.0.0 proxyen.com
@@ -13623,6 +13638,7 @@
 0.0.0.0 pygos.space
 0.0.0.0 pyiirwlu.com
 0.0.0.0 pyjichang.com
+0.0.0.0 pyproxy.com
 0.0.0.0 pz-kuailian.com
 0.0.0.0 pzjgyywf.com
 0.0.0.0 pzovr.cc
@@ -13829,6 +13845,7 @@
 0.0.0.0 rethinkdns.com
 0.0.0.0 revelio.top
 0.0.0.0 revko.info
+0.0.0.0 rewardpumpkin.com
 0.0.0.0 rezerofanbase.com
 0.0.0.0 rfnprotection.uk
 0.0.0.0 rgvpn.cc
@@ -13880,6 +13897,7 @@
 0.0.0.0 rockwhisper.com
 0.0.0.0 rohex.xyz
 0.0.0.0 romanschrom.com
+0.0.0.0 ronald.run
 0.0.0.0 roodel.com
 0.0.0.0 roomatic.net
 0.0.0.0 roonyx.com
@@ -13887,6 +13905,7 @@
 0.0.0.0 roriva.com
 0.0.0.0 roskomnadzor.dev
 0.0.0.0 rotvpn.com
+0.0.0.0 roundrockisd.online
 0.0.0.0 route7890.com
 0.0.0.0 rovexali.forum
 0.0.0.0 roycom.win
@@ -13979,6 +13998,7 @@
 0.0.0.0 saoudiproxy.info
 0.0.0.0 sascha-rabold.de
 0.0.0.0 satnet.cv
+0.0.0.0 satori.top
 0.0.0.0 satoshivpn.help
 0.0.0.0 saturnvpn.com
 0.0.0.0 savrilo.ru
@@ -14344,6 +14364,7 @@
 0.0.0.0 ss-cdn.com
 0.0.0.0 ssarea.com
 0.0.0.0 ssgreen.org
+0.0.0.0 ssh-free.com
 0.0.0.0 ssh-storage.ru
 0.0.0.0 sshagan.net
 0.0.0.0 sshdropbear.net
@@ -14398,7 +14419,9 @@
 0.0.0.0 starvpnapp.com
 0.0.0.0 starwayvpn.com
 0.0.0.0 statemindpath.com
+0.0.0.0 statetestingstudies.com
 0.0.0.0 staticnetcontent.com
+0.0.0.0 staticrush.com
 0.0.0.0 staticstream.org
 0.0.0.0 staticvaultcdn.org
 0.0.0.0 staticvaultcdn.xyz
@@ -14461,6 +14484,7 @@
 0.0.0.0 stunnel.cc
 0.0.0.0 stunnelvpn.id
 0.0.0.0 stupidproxy.com
+0.0.0.0 stupidstow.xyz
 0.0.0.0 su89-cdn.net
 0.0.0.0 suazwlmz.com
 0.0.0.0 subclsnet.com
@@ -14693,7 +14717,9 @@
 0.0.0.0 theproxy.vip
 0.0.0.0 theproxy.work
 0.0.0.0 theproxy2.biz
+0.0.0.0 theproxy2.cc
 0.0.0.0 theproxy2.com
+0.0.0.0 theproxy2.org
 0.0.0.0 theproxya.org
 0.0.0.0 theproxyer.com
 0.0.0.0 theproxyguide.com
@@ -14782,6 +14808,7 @@
 0.0.0.0 tnquyfpp.com
 0.0.0.0 tns5gcwfy.online
 0.0.0.0 tntv2.com
+0.0.0.0 tnvpn.com
 0.0.0.0 toaster.lol
 0.0.0.0 toggle.org
 0.0.0.0 togglevpn.org
@@ -14789,6 +14816,7 @@
 0.0.0.0 tois.tech
 0.0.0.0 tokvpn.help
 0.0.0.0 tolveno.ru
+0.0.0.0 tommattinglyda.site
 0.0.0.0 tonvpn.com
 0.0.0.0 toolara.net
 0.0.0.0 toolcio.com
@@ -15002,6 +15030,7 @@
 0.0.0.0 ueeftvvc.cc
 0.0.0.0 ues-letsvpn.com
 0.0.0.0 ufovpn.io
+0.0.0.0 ufreevpn.com
 0.0.0.0 ugdsoft.com
 0.0.0.0 ughhhhcuminmedaddypleaseimsofuckingwetaughhh.cfd
 0.0.0.0 uhzuran.win
@@ -15058,7 +15087,9 @@
 0.0.0.0 unblocked.buzz
 0.0.0.0 unblocked.cloud
 0.0.0.0 unblocked.foo
+0.0.0.0 unblocked.help
 0.0.0.0 unblocked.id
+0.0.0.0 unblocked.love
 0.0.0.0 unblocked.me
 0.0.0.0 unblocked.name
 0.0.0.0 unblocked.racing
@@ -15147,6 +15178,7 @@
 0.0.0.0 undiscord.com
 0.0.0.0 undofilters.com
 0.0.0.0 uni-apps.com
+0.0.0.0 unicapra.ru
 0.0.0.0 unifiedvpn.com
 0.0.0.0 unil.click
 0.0.0.0 uniqueduty.com
@@ -15447,6 +15479,7 @@
 0.0.0.0 voebsle.com
 0.0.0.0 vofasts.xyz
 0.0.0.0 voidd.network
+0.0.0.0 voidnetwork.space
 0.0.0.0 voidtickets.xyz
 0.0.0.0 volatr.xyz
 0.0.0.0 voltrex.ru
@@ -15503,6 +15536,7 @@
 0.0.0.0 vpn-private.net
 0.0.0.0 vpn-professional.company
 0.0.0.0 vpn-russia.app
+0.0.0.0 vpn-server.xyz
 0.0.0.0 vpn-service.us
 0.0.0.0 vpn-shield.help
 0.0.0.0 vpn-simple.com
@@ -15698,6 +15732,7 @@
 0.0.0.0 vpnpro.com
 0.0.0.0 vpnpro.quest
 0.0.0.0 vpnproxy.app
+0.0.0.0 vpnproxy.online
 0.0.0.0 vpnproxy.org
 0.0.0.0 vpnproxy.site
 0.0.0.0 vpnproxymaster.app
@@ -15823,6 +15858,7 @@
 0.0.0.0 warp-vpn.lol
 0.0.0.0 warpproxy.com
 0.0.0.0 waselpro.com
+0.0.0.0 watchproxy.com
 0.0.0.0 wavemesh.cyou
 0.0.0.0 waves.lat
 0.0.0.0 waydnes.ru
@@ -15858,6 +15894,7 @@
 0.0.0.0 webopen.info
 0.0.0.0 weboproxy.com
 0.0.0.0 webpro.xyz
+0.0.0.0 webproxy.best
 0.0.0.0 webproxy.club
 0.0.0.0 webproxy.com
 0.0.0.0 webproxy.mobi
