@@ -7127,6 +7127,7 @@
 0.0.0.0 appleiosfree.com
 0.0.0.0 appleproxy.com
 0.0.0.0 applevpnapp.com
+0.0.0.0 application-vpnzo.com
 0.0.0.0 applied-privacy.net
 0.0.0.0 appo-kuailian.com
 0.0.0.0 appriver.online
@@ -16155,6 +16156,7 @@
 0.0.0.0 xmrth.lol
 0.0.0.0 xmyjsq.com
 0.0.0.0 xn--14ra41gd24b.xyz
+0.0.0.0 xn--1qqp3f85dcwcez1inzc.com
 0.0.0.0 xn--2vxn29amga.cc
 0.0.0.0 xn--44q907fa2408a.com
 0.0.0.0 xn--4gq62f52gdss.com
@@ -16164,6 +16166,8 @@
 0.0.0.0 xn--80aeak3akfgk.xn--p1acf
 0.0.0.0 xn--80aecoigf4aatn.xn--p1ai
 0.0.0.0 xn--9kq050gk1z.com
+0.0.0.0 xn--9kq10ek4nfj1bly0a.org
+0.0.0.0 xn--9kqr48j.com
 0.0.0.0 xn--9kqrm7t.com
 0.0.0.0 xn--9kqrm7t.net
 0.0.0.0 xn--9kqu74cfu3b.com
@@ -16182,9 +16186,14 @@
 0.0.0.0 xn--fiq626gzzgkv2a.com
 0.0.0.0 xn--fiqs8s9rjgsr.com
 0.0.0.0 xn--fiqy4bl9l81zp7skjc1xd.com
+0.0.0.0 xn--h5q13wxxnwubd52b.org
+0.0.0.0 xn--h5q36vepk.com
+0.0.0.0 xn--h5q84a86ft33f1ej.com
 0.0.0.0 xn--huajicloud-cn3r594m.com
 0.0.0.0 xn--kbtz2zn3ab56c.com
 0.0.0.0 xn--mes358aby2apfg.com
+0.0.0.0 xn--mes358akvk7hn.com
+0.0.0.0 xn--mes358ar69azba.com
 0.0.0.0 xn--mest5a943ag8x.com
 0.0.0.0 xn--mesz5hn9e3rh.com
 0.0.0.0 xn--nexitally-459pk42i.com
@@ -16193,6 +16202,7 @@
 0.0.0.0 xn--rss276g.net
 0.0.0.0 xn--rss276g.xyz
 0.0.0.0 xn--rsso18bk2j97ggmu.com
+0.0.0.0 xn--ssrdog-u40k507h.com
 0.0.0.0 xn--v3csa3bs8i.com
 0.0.0.0 xn--vpn-0m8e007c.com
 0.0.0.0 xn--vpn-0w2et10mvkyb.com
@@ -16223,12 +16233,19 @@
 0.0.0.0 xn--yfrp36ea9901a.com
 0.0.0.0 xn--yfrp5enpj81a6w4d.com
 0.0.0.0 xn--yfrw1g0upg04amnn.com
+0.0.0.0 xn--yfrw1g210bq2x1bg.com
+0.0.0.0 xn--yfrw1ghyc0w6f55d.com
 0.0.0.0 xn--yfrw1glt6awpb6x3e.xyz
+0.0.0.0 xn--yfrw1gnycd39eggi.com
+0.0.0.0 xn--yfrw1gow2d4chrxa.com
 0.0.0.0 xn--yfrw1goy3egzffc.com
+0.0.0.0 xn--yfrw1gu5rpi5bscj.org
+0.0.0.0 xn--yfrx4ay7cq52em5r.com
 0.0.0.0 xn--yrs494l.com
 0.0.0.0 xn--yun-2t1ej483a.com
 0.0.0.0 xn--z4vu10a.com
 0.0.0.0 xn--zuup71g88ae4i.com
+0.0.0.0 xn--zwwa296b.com
 0.0.0.0 xolvento.ru
 0.0.0.0 xomverta.ru
 0.0.0.0 xonlrnrujxbx.com
