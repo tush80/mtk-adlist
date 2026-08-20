@@ -14303,8 +14303,6 @@
 0.0.0.0 sovpn.cc
 0.0.0.0 sowhatstory.com
 0.0.0.0 spacedns.org
-0.0.0.0 spaceship.com
-0.0.0.0 spaceship-cdn.com
 0.0.0.0 spacevpn.io
 0.0.0.0 spbyjzu.cn
 0.0.0.0 spedo.co
@@ -15847,6 +15845,7 @@
 0.0.0.0 wadsworthyouthbasketball.org
 0.0.0.0 waitfree.us
 0.0.0.0 waiwangjiasu.net
+0.0.0.0 wakou-engineering-univ.site
 0.0.0.0 waladunit.com
 0.0.0.0 walln.com
 0.0.0.0 wallpap.eu
