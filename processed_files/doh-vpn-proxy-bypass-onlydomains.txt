@@ -3904,7 +3904,6 @@
 0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kekew.racing
 0.0.0.0 doh3.kekew.info
-0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kempkens.org
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -4404,7 +4403,6 @@
 0.0.0.0 ae-fuj-w-p-2.nashkan.net
 0.0.0.0 ae-fuj-w-p-3.nashkan.net
 0.0.0.0 ae-fuj-w-p-4.nashkan.net
-0.0.0.0 at-wie-w-p-1.nashkan.net
 0.0.0.0 au-syd-w-f-1.nashkan.net
 0.0.0.0 au-syd-w-p-1.nashkan.net
 0.0.0.0 de-fra-w-f-1.nashkan.net
@@ -4414,7 +4412,6 @@
 0.0.0.0 de-fsn-w-p-1.nashkan.net
 0.0.0.0 fi-hel-w-f-2.nashkan.net
 0.0.0.0 fi-hel-w-p-1.nashkan.net
-0.0.0.0 fr-gra-w-p-1.nashkan.net
 0.0.0.0 gb-cov-w-f-1.nashkan.net
 0.0.0.0 gb-cov-w-f-2.nashkan.net
 0.0.0.0 gb-cov-w-p-1.nashkan.net
@@ -13317,7 +13314,6 @@
 0.0.0.0 prflux.xyz
 0.0.0.0 prgoorzz.cc
 0.0.0.0 primeproxy23.info
-0.0.0.0 princez.uk
 0.0.0.0 printruns.us
 0.0.0.0 printtools.us
 0.0.0.0 privacy.io
