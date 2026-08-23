@@ -15410,6 +15410,7 @@
 0.0.0.0 vexiro.ru
 0.0.0.0 vexmoriano.xyz
 0.0.0.0 vexonip.baby
+0.0.0.0 vextuproxy.cloud
 0.0.0.0 vezaruspro.com
 0.0.0.0 vezarys.ru
 0.0.0.0 vfast.life
