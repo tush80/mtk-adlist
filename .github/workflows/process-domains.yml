@@ -41,7 +41,7 @@ jobs:
           done
       - name: Commit and push processed files
         run: |
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "tush80"
 
           git add processed_files/
           
