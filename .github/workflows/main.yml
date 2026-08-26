@@ -16,13 +16,13 @@ jobs:
           uses: actions/checkout@v4
 
         - name: Update source file 1
-          run: curl -sSL "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt" -o source_files/doh-vpn-proxy-bypass-onlydomains.txt
+          run: curl -sSL "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt" -o source_files/doh-vpn-proxy-bypass-onlydomains.txt
           
         - name: Update source file 2
-          run: curl -sSL "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt" -o source_files/tif-onlydomains.txt
+          run: curl -sSL "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif-onlydomains.txt" -o source_files/tif-onlydomains.txt
           
         - name: Update source files 3
-          run: curl -sSL "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt" -o source_files/pro-onlydomains.txt
+          run: curl -sSL "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt" -o source_files/pro-onlydomains.txt
         - name: Commit & push changes (if any)
           run: |
             git config user.name "github-actions[bot]"
