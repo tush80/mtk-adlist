@@ -450,7 +450,6 @@
 0.0.0.0 94.184.39.6.aprawood.ir
 0.0.0.0 94.184.39.7.aprawood.ir
 0.0.0.0 94.184.39.8.aprawood.ir
-0.0.0.0 94.184.39.9.aprawood.ir
 0.0.0.0 x.aptlive.org
 0.0.0.0 dns.aquilenet.fr
 0.0.0.0 proof.major.archanet.org
@@ -1910,6 +1909,7 @@
 0.0.0.0 shandian.cn.com
 0.0.0.0 adguard.cnbeining.com
 0.0.0.0 doh.cnetwork.cloud
+0.0.0.0 ir.441creative.co.uk
 0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 dns.adriason.co.uk
 0.0.0.0 teamspeak.adriason.co.uk
@@ -1918,10 +1918,10 @@
 0.0.0.0 safedns2.allover.co.za
 0.0.0.0 garlandisd.almotek.co.za
 0.0.0.0 haji.assassinationpuma.co.uk
-0.0.0.0 boro.bache-jun.co.uk
 0.0.0.0 mikhoramet.bache-jun.co.uk
 0.0.0.0 ir.billblog.co.uk
 0.0.0.0 iran.billblog.co.uk
+0.0.0.0 irn.billblog.co.uk
 0.0.0.0 educationbooks.boxrepublic.co.za
 0.0.0.0 dexter.brettanderson.co.uk
 0.0.0.0 download.brettanderson.co.uk
@@ -1955,11 +1955,9 @@
 0.0.0.0 evo.foriran.co.uk
 0.0.0.0 gen.foriran.co.uk
 0.0.0.0 s5.foriran.co.uk
-0.0.0.0 iran.fourie.co.uk
 0.0.0.0 gn-z11.franscois.co.za
 0.0.0.0 dns.gayanalysing.co.uk
 0.0.0.0 dns.gi.co.id
-0.0.0.0 hulk.goaphrodite.co.uk
 0.0.0.0 iran-download.goaphrodite.co.uk
 0.0.0.0 ai.golgoli1.co.uk
 0.0.0.0 irogallery.golgoli1.co.uk
@@ -1974,20 +1972,20 @@
 0.0.0.0 soheil.goooalir.co.uk
 0.0.0.0 tassian.goooalir.co.uk
 0.0.0.0 vasle.goooalir.co.uk
-0.0.0.0 api.groundfloorsolutions.co.uk
 0.0.0.0 naro.guguli.co.uk
 0.0.0.0 focus.utopia.gzone.co.kr
 0.0.0.0 dns.hashemlabs.co.uk
 0.0.0.0 bala.hastim.co.uk
 0.0.0.0 ma.hastim.co.uk
 0.0.0.0 panel.hook--tehran.co.uk
+0.0.0.0 ccc.horizon555.co.uk
+0.0.0.0 one.horizon555.co.uk
 0.0.0.0 ag.hostme.co.il
 0.0.0.0 ixl.math.hsf.co.za
 0.0.0.0 sub.iran-tehran.co.uk
 0.0.0.0 rana.irankhodro.co.uk
 0.0.0.0 ftp.jinxandjack.co.uk
 0.0.0.0 red.jinxandjack.co.uk
-0.0.0.0 webhook.jinxandjack.co.uk
 0.0.0.0 mashti.just-money.co.uk
 0.0.0.0 dns.kloiber.co.at
 0.0.0.0 dns2.kloiber.co.at
@@ -2000,6 +1998,7 @@
 0.0.0.0 rain.lavazemi2.co.uk
 0.0.0.0 gold.lavazemi4.co.uk
 0.0.0.0 flux.lavazemi5.co.uk
+0.0.0.0 ir.lewisj.co.uk
 0.0.0.0 dns-one.lins.co.tt
 0.0.0.0 dns-three.lins.co.tt
 0.0.0.0 guard.lumusimc.co.uk
@@ -2009,7 +2008,6 @@
 0.0.0.0 new7.mizanmizanesgh.co.uk
 0.0.0.0 benz.mohearn.co.uk
 0.0.0.0 vasl-sho.mohearn.co.uk
-0.0.0.0 vip.mohearn.co.uk
 0.0.0.0 yeke-jahan.mohearn.co.uk
 0.0.0.0 mio.mozitop.co.uk
 0.0.0.0 puot.mozitop.co.uk
@@ -2076,7 +2074,6 @@
 0.0.0.0 dns.walshnet.co.uk
 0.0.0.0 app.what-ever.co.uk
 0.0.0.0 blue.what-ever.co.uk
-0.0.0.0 webhook.what-ever.co.uk
 0.0.0.0 apple1.willemvisser.co.za
 0.0.0.0 agh.workfordemo.co.in
 0.0.0.0 jadid.zhigool.co.uk
@@ -2110,14 +2107,12 @@
 0.0.0.0 onlineproxy.co.uk
 0.0.0.0 opeenhostings.co.uk
 0.0.0.0 pooblet.co.za
-0.0.0.0 porsorate.co.uk
 0.0.0.0 proxay.co.uk
 0.0.0.0 proxify.co.uk
 0.0.0.0 proxywebsite.co.uk
 0.0.0.0 readingforfun.co.com
 0.0.0.0 rfastvpn.co.cc
 0.0.0.0 rmdns26.co.uk
-0.0.0.0 rootssh2.co.uk
 0.0.0.0 rudmoain.co.uk
 0.0.0.0 safesurfer.co.nz
 0.0.0.0 sbdns.co.in
@@ -3932,6 +3927,7 @@
 0.0.0.0 workwithsktechh.jumpingcrab.com
 0.0.0.0 dns.jundev.org
 0.0.0.0 dns.jungle-im.ir
+0.0.0.0 strait-of-hormuz.ir.jursdheks.info
 0.0.0.0 jp01.just-a-web.com
 0.0.0.0 sgs02.just-a-web.com
 0.0.0.0 ad.justincounts.com
@@ -4257,9 +4253,8 @@
 0.0.0.0 httpdnsmultiapi.meituan.com
 0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
-0.0.0.0 00k8j1.ir.ir.ir.meli-n12.info
+0.0.0.0 78801041.ir.ir.ir.meli-n12.info
 0.0.0.0 7sak101.ir.ir.ir.meli-n12.info
-0.0.0.0 87801041.ir.ir.ir.meli-n12.info
 0.0.0.0 88801041.ir.ir.ir.meli-n12.info
 0.0.0.0 o1801.ir.ir.ir.meli-n12.info
 0.0.0.0 s44447n.ir.ir.ir.meli-n12.info
@@ -4269,12 +4264,13 @@
 0.0.0.0 s6ak101.ir.ir.ir.meli-n12.info
 0.0.0.0 s7n.ir.ir.ir.meli-n12.info
 0.0.0.0 sn.ir.ir.ir.meli-n12.info
+0.0.0.0 26ddd1.mmd1.meli-n12.info
 0.0.0.0 28ddd1.mmd1.meli-n12.info
 0.0.0.0 2d6dd1.mmd1.meli-n12.info
 0.0.0.0 2d9dd1.mmd1.meli-n12.info
 0.0.0.0 00777791.ir.meli-n13.info
+0.0.0.0 007778891.ir.meli-n13.info
 0.0.0.0 0077791.ir.meli-n13.info
-0.0.0.0 88o6k1.ir.meli-n13.info
 0.0.0.0 u2601.ir.meli-n13.info
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 recap.utopia.menorahscrazyblog.com
@@ -4702,9 +4698,6 @@
 0.0.0.0 us.novali.date
 0.0.0.0 dns.novg.net
 0.0.0.0 brain.sci.now-incorporate.com
-0.0.0.0 dev.nowabst.net
-0.0.0.0 ge.nowabst.net
-0.0.0.0 gw.nowabst.net
 0.0.0.0 best-force-734.nowgg.me
 0.0.0.0 fair-tiger-688.nowgg.me
 0.0.0.0 great-dark-199.nowgg.me
@@ -5552,6 +5545,7 @@
 0.0.0.0 use.star.is
 0.0.0.0 hk2.ss.startagegames.com
 0.0.0.0 logical.startechcomputacion.com
+0.0.0.0 forever.startnetwork.shop
 0.0.0.0 ams1.startpage.com
 0.0.0.0 ams2.startpage.com
 0.0.0.0 browse.startpage.com
@@ -5839,6 +5833,7 @@
 0.0.0.0 d.toairs.com
 0.0.0.0 agathe.tobkar.net
 0.0.0.0 edgar.tobkar.net
+0.0.0.0 danmarki.tokhmemorgh.info
 0.0.0.0 int.toltec.info
 0.0.0.0 interstellar.toltec.info
 0.0.0.0 kr.tomgirl.top
@@ -6172,8 +6167,6 @@
 0.0.0.0 zhang.wenru.xyz
 0.0.0.0 doh.wewitro.net
 0.0.0.0 doh-rs.whalebone.io
-0.0.0.0 hub.whiteblox.org
-0.0.0.0 rich.whiteblox.org
 0.0.0.0 beam.whitelist.cyou
 0.0.0.0 bwh.why4free.top
 0.0.0.0 dns.wibenson.cloud
@@ -7716,7 +7709,6 @@
 0.0.0.0 bettingbet365.com
 0.0.0.0 bexumvpn.help
 0.0.0.0 bezlimitvpn.homes
-0.0.0.0 bfesedv.uk
 0.0.0.0 bfgok.com
 0.0.0.0 bfjqye.com
 0.0.0.0 bgpnet.org
@@ -10107,7 +10099,6 @@
 0.0.0.0 ghostbrowser.com
 0.0.0.0 ghostpath.com
 0.0.0.0 gibblets.top
-0.0.0.0 giftt.ir
 0.0.0.0 gifttrees.us
 0.0.0.0 gigatapbot.top
 0.0.0.0 gillsonse.com
@@ -16017,6 +16008,7 @@
 0.0.0.0 whatsonthebox.net
 0.0.0.0 whatsuprox.com
 0.0.0.0 whiskergalaxy.com
+0.0.0.0 whiteblox.org
 0.0.0.0 whitehatvpn.com
 0.0.0.0 whitevpn.help
 0.0.0.0 whitewhalejiasu.com
@@ -16405,7 +16397,6 @@
 0.0.0.0 yeralin.net
 0.0.0.0 yes-taro.ru
 0.0.0.0 yestaro.ru
-0.0.0.0 yesyesno.ir
 0.0.0.0 yexmorio.ru
 0.0.0.0 yfn42.net
 0.0.0.0 yfntg.net
