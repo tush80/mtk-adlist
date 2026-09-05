@@ -41,14 +41,10 @@ jobs:
           done
       - name: Commit and push processed files
         run: |
-          git config --global user.name "tush80"
-
           git add processed_files/
-          
-          # Check if there are changes before committing
           if git diff --staged --quiet; then
             echo "No changes detected in processed files."
           else
-            git commit -m "auto: update processed domain blocklists [skip ci]"
+            git commit -m "auto: update processed domain blocklists"
             git push
           fi
