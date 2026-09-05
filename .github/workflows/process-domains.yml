@@ -41,6 +41,8 @@ jobs:
           done
       - name: Commit and push processed files
         run: |
+          git config --global user.name "tush80"
+          git config --global user.email "tush@mail.bg"
           git add processed_files/
           if git diff --staged --quiet; then
             echo "No changes detected in processed files."
