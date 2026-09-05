@@ -25,6 +25,8 @@ jobs:
           run: curl -sSL "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt" -o source_files/pro-onlydomains.txt
         - name: Commit & push changes (if any)
           run: |
+            git config --global user.name "tush80"
+            git config --global user.email "tush@mail.bg"
             git add source_files/*.txt
             if ! git diff --staged --quiet; then
             git commit -m "Update source_files from remote lists"
