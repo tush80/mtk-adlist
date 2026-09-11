@@ -419,7 +419,6 @@
 0.0.0.0 212.108.98.103.aprawood.ir
 0.0.0.0 212.108.98.104.aprawood.ir
 0.0.0.0 212.108.98.105.aprawood.ir
-0.0.0.0 94.184.32.108.aprawood.ir
 0.0.0.0 94.184.32.109.aprawood.ir
 0.0.0.0 94.184.32.110.aprawood.ir
 0.0.0.0 212.108.98.4.aprawood.ir
@@ -450,6 +449,7 @@
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 music.know.asiapacificpatent.net
 0.0.0.0 doh.asli.id
+0.0.0.0 s2.assetflux.org
 0.0.0.0 task.major.assholetenants.com
 0.0.0.0 dns.asterimoon.com
 0.0.0.0 amgr.asuscomm.com
@@ -597,8 +597,6 @@
 0.0.0.0 adblock.benmeyer.net
 0.0.0.0 dns.bermeitinger.eu
 0.0.0.0 domburg.beruys.com
-0.0.0.0 ssh.best-moz.info
-0.0.0.0 ssh2.best-moz.info
 0.0.0.0 mathforfun.firstgrad.bestprogramsforkids.com
 0.0.0.0 learnvcsa.bestprogramsforkids.com
 0.0.0.0 officialcepheusx.bestprogramsforkids.com
@@ -1022,6 +1020,7 @@
 0.0.0.0 1999369668.rsc.cdn77.org
 0.0.0.0 httpdns.c.cdnhwc2.com
 0.0.0.0 httpdns1.cc.cdnhwc5.com
+0.0.0.0 cdn14.cdnwave.org
 0.0.0.0 adguard.cedoman.com
 0.0.0.0 dns.cert.ee
 0.0.0.0 pds.cfornas.casa
@@ -1854,14 +1853,13 @@
 0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 dns.adriason.co.uk
 0.0.0.0 teamspeak.adriason.co.uk
+0.0.0.0 are.ajjab.co.uk
 0.0.0.0 securesurfvpn.all.co.tz
 0.0.0.0 safedns.allover.co.za
 0.0.0.0 safedns2.allover.co.za
 0.0.0.0 deleted.antony-gordon.co.uk
 0.0.0.0 ir.antony-gordon.co.uk
-0.0.0.0 haji.assassinationpuma.co.uk
 0.0.0.0 cdn.benzcls.co.uk
-0.0.0.0 web3.benzcls.co.uk
 0.0.0.0 iranian.billblog.co.uk
 0.0.0.0 educationbooks.boxrepublic.co.za
 0.0.0.0 new.canmycheshm.co.uk
@@ -1909,7 +1907,6 @@
 0.0.0.0 jadid.goooalir.co.uk
 0.0.0.0 joje.goooalir.co.uk
 0.0.0.0 leomessi.goooalir.co.uk
-0.0.0.0 london.goooalir.co.uk
 0.0.0.0 meshki.goooalir.co.uk
 0.0.0.0 nab.goooalir.co.uk
 0.0.0.0 napoli.goooalir.co.uk
@@ -1930,6 +1927,7 @@
 0.0.0.0 focus.utopia.gzone.co.kr
 0.0.0.0 dns.hashemlabs.co.uk
 0.0.0.0 bala.hastim.co.uk
+0.0.0.0 ma.hastim.co.uk
 0.0.0.0 ccc.horizon555.co.uk
 0.0.0.0 one.horizon555.co.uk
 0.0.0.0 ag.hostme.co.il
@@ -1937,8 +1935,6 @@
 0.0.0.0 support.infinityhalo.co.uk
 0.0.0.0 sub.iran-tehran.co.uk
 0.0.0.0 joon.jinxandjack.co.uk
-0.0.0.0 mt.joumalanet.co.uk
-0.0.0.0 support.joumalanet.co.uk
 0.0.0.0 mashti.just-money.co.uk
 0.0.0.0 dns.kloiber.co.at
 0.0.0.0 dns2.kloiber.co.at
@@ -1951,7 +1947,6 @@
 0.0.0.0 dns-one.lins.co.tt
 0.0.0.0 dns-three.lins.co.tt
 0.0.0.0 guard.lumusimc.co.uk
-0.0.0.0 hetzner.makkers.co.uk
 0.0.0.0 ir.makkers.co.uk
 0.0.0.0 craft.malavanann.co.uk
 0.0.0.0 new7.mizanmizanesgh.co.uk
@@ -1959,10 +1954,14 @@
 0.0.0.0 vasl-sho.mohearn.co.uk
 0.0.0.0 vip.mohearn.co.uk
 0.0.0.0 yeke-jahan.mohearn.co.uk
+0.0.0.0 mio.mozitop.co.uk
+0.0.0.0 puot.mozitop.co.uk
+0.0.0.0 ving.mozitop.co.uk
 0.0.0.0 iran-iran.muffinnoliershatelcomingsoon.co.uk
 0.0.0.0 lashboy.muzanesghy.co.uk
+0.0.0.0 dokhtar.nanaz.co.uk
 0.0.0.0 hapoo.nanaz.co.uk
-0.0.0.0 new.nchnch.co.uk
+0.0.0.0 pesar.nanaz.co.uk
 0.0.0.0 dns.neilzone.co.uk
 0.0.0.0 ns02.nerdytechgeeks.co.za
 0.0.0.0 1.hide.newflamingodomain.co.uk
@@ -1982,11 +1981,10 @@
 0.0.0.0 lightspeed.qr-code.co.za
 0.0.0.0 mathnotes.qr-code.co.za
 0.0.0.0 dns.rawalker.co.nz
-0.0.0.0 iran.retaliate.co.uk
 0.0.0.0 nab-hdn.royaclinic.co.uk
 0.0.0.0 www.royaclinic.co.uk
 0.0.0.0 reyhoon.shambelile.co.uk
-0.0.0.0 tare.shambelile.co.uk
+0.0.0.0 shahi.shambelile.co.uk
 0.0.0.0 dns.skuy.co.id
 0.0.0.0 dns.speed-benz.co.uk
 0.0.0.0 premium.speed-benz.co.uk
@@ -2028,6 +2026,7 @@
 0.0.0.0 crusnik80.co.za
 0.0.0.0 ddelay.co.uk
 0.0.0.0 din5gli2.co.uk
+0.0.0.0 dingi3.co.uk
 0.0.0.0 diskcrmvpn.co.cc
 0.0.0.0 hax.co.id
 0.0.0.0 hidemyass.co.uk
@@ -2077,7 +2076,7 @@
 0.0.0.0 vpnofanti.co.cc
 0.0.0.0 vpnoffice.co.cc
 0.0.0.0 windler.co.uk
-0.0.0.0 yarypple.co.uk
+0.0.0.0 zon-b0z.co.uk
 0.0.0.0 ag.coco-tama-hoiku.com
 0.0.0.0 block.coconut.id
 0.0.0.0 dns.codarbyte.de
@@ -3030,6 +3029,7 @@
 0.0.0.0 selenite.global.ssl.fastly.net
 0.0.0.0 us4-ubg.global.ssl.fastly.net
 0.0.0.0 zva-186.global.ssl.fastly.net
+0.0.0.0 ohttp-relay-android-dev-verification.google.fastly-edge.com
 0.0.0.0 waterfox-ohttp-relay.fastly-edge.com
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 api.fatibara.com
@@ -3376,6 +3376,7 @@
 0.0.0.0 d.hansj.cc
 0.0.0.0 classroom.haoqiw.com
 0.0.0.0 dns.haoxuan.xyz
+0.0.0.0 media11.happtg.org
 0.0.0.0 cars.happyforever.com
 0.0.0.0 skibidiparkergoon.happyforever.com
 0.0.0.0 turtle.happyforever.com
@@ -4002,6 +4003,7 @@
 0.0.0.0 hamster67.loseyourip.com
 0.0.0.0 iwillnot.loseyourip.com
 0.0.0.0 ddd.loukky.com
+0.0.0.0 global.lovely.lat
 0.0.0.0 relay.lsaccess.cf
 0.0.0.0 n5.lsasss.com
 0.0.0.0 dns.lsho.top
@@ -4092,10 +4094,9 @@
 0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
 0.0.0.0 00nvfg1.ir.ir.ir.meli-n12.info
-0.0.0.0 417.ir.ir.ir.meli-n12.info
 0.0.0.0 8nvfg1.ir.ir.ir.meli-n12.info
+0.0.0.0 8pl9o1.ir.ir.ir.meli-n12.info
 0.0.0.0 l07.ir.ir.ir.meli-n12.info
-0.0.0.0 pjjp1.ir.ir.ir.meli-n12.info
 0.0.0.0 s44447n.ir.ir.ir.meli-n12.info
 0.0.0.0 s4447n.ir.ir.ir.meli-n12.info
 0.0.0.0 s447n.ir.ir.ir.meli-n12.info
@@ -4103,11 +4104,11 @@
 0.0.0.0 s7n.ir.ir.ir.meli-n12.info
 0.0.0.0 sn.ir.ir.ir.meli-n12.info
 0.0.0.0 26ddd1.mmd1.meli-n12.info
-0.0.0.0 28ddd1.mmd1.meli-n12.info
 0.0.0.0 62ddd1.mmd1.meli-n12.info
+0.0.0.0 791kk.ir.meli-n13.info
 0.0.0.0 b17.ir.meli-n13.info
+0.0.0.0 ih8nb.ir.meli-n13.info
 0.0.0.0 kv67m.ir.meli-n13.info
-0.0.0.0 kvhhm.ir.meli-n13.info
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 recap.utopia.menorahscrazyblog.com
 0.0.0.0 t.meow-network.com
@@ -4187,6 +4188,7 @@
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 vcsaxselenite.ms-itsllc.com
 0.0.0.0 dns.msxnet.ru
+0.0.0.0 proxy.mtcomrade.website
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com
 0.0.0.0 dns.muellerstech.de
@@ -4868,7 +4870,6 @@
 0.0.0.0 nana.rammer.psgl.cl
 0.0.0.0 public-is-wonderful.publicvm.com
 0.0.0.0 hamrah.mci.ir.pugfhtrdyted.info
-0.0.0.0 khazar.sea.ir.pugfhtrdyted.info
 0.0.0.0 khalije-ta-abad-fars.ir.pugfhtrdyted.info
 0.0.0.0 dns.pumpkinvrar.com
 0.0.0.0 dns-privacy.puregeni.us
@@ -5100,7 +5101,6 @@
 0.0.0.0 dns.scapetical.com
 0.0.0.0 dns.scarx.net
 0.0.0.0 dns.scayn.com
-0.0.0.0 filter.das.sch.id
 0.0.0.0 point.scheduleholiday.christmas
 0.0.0.0 proxy.schel.li
 0.0.0.0 dns.schlagheck.berlin
@@ -5120,12 +5120,6 @@
 0.0.0.0 facts.teach.sdm-tv.com
 0.0.0.0 adguard.sealyserver.com
 0.0.0.0 dns.seaotter.cc
-0.0.0.0 ghjkkljdgchjk.dfghjkjjhgfcvbjm.searchegpt.com
-0.0.0.0 ujlhjhklhlfigjh.dtgxfjkiokl.searchegpt.com
-0.0.0.0 sdfewajgdaf.fosldfjklsdf.searchegpt.com
-0.0.0.0 fjkdxmhgsugbjj.hfdjksahdjks.searchegpt.com
-0.0.0.0 mlfjkskd.klsdfj.searchegpt.com
-0.0.0.0 fcbjhnk.sodfjksdflkdsf.searchegpt.com
 0.0.0.0 proxy.searchfiles.de
 0.0.0.0 gesture.searchgpy.com
 0.0.0.0 mathhelp4858.searchgpy.com
@@ -5165,7 +5159,6 @@
 0.0.0.0 adguard.serverrune.be
 0.0.0.0 assets-prod-a230.s3.serverwild.com
 0.0.0.0 dns.servizimv.it
-0.0.0.0 alidns.session.pub
 0.0.0.0 dns.sev.monster
 0.0.0.0 interstellar.sevecom.com
 0.0.0.0 learnvcsa.sevecom.com
@@ -5181,7 +5174,6 @@
 0.0.0.0 dns.shecan.ir
 0.0.0.0 free.shecan.ir
 0.0.0.0 pro.shecan.ir
-0.0.0.0 dns.sheggi.ch
 0.0.0.0 httpdns.n.shifen.com
 0.0.0.0 dns.shimul.me
 0.0.0.0 do.shimul.me
@@ -5268,7 +5260,6 @@
 0.0.0.0 master.dont.beat.me.spacejamhd.com
 0.0.0.0 jashwin.is.wierd.spacejamhd.com
 0.0.0.0 wormhole.is.your-savior.spacejamhd.com
-0.0.0.0 lousiana-history-careers-ixl-geoly-education.spacetechnology.net
 0.0.0.0 lomoff.spb.ru
 0.0.0.0 wifrousl.spdns.de
 0.0.0.0 doh-01.spectrum.com
@@ -5280,7 +5271,6 @@
 0.0.0.0 physicaleducation.sportseducationinstructors.org
 0.0.0.0 s1.srch.top
 0.0.0.0 adguard.sre.ovh
-0.0.0.0 proxy.srs.su
 0.0.0.0 dns2.srv-home.fr
 0.0.0.0 resolve.srv-pro.de
 0.0.0.0 resolve02.srv-pro.de
@@ -5390,7 +5380,6 @@
 0.0.0.0 dns.stormycloud.org
 0.0.0.0 adguard.strafer.dk
 0.0.0.0 alice.armani.strangled.net
-0.0.0.0 imgonnaticklefrank.strangled.net
 0.0.0.0 risdpublicdomain.strangled.net
 0.0.0.0 robertthefrost.strangled.net
 0.0.0.0 konnektor.stratipharm.de
@@ -5424,7 +5413,6 @@
 0.0.0.0 wondering.superportret.ru
 0.0.0.0 adguard.superstefan.win
 0.0.0.0 dns.superstefan.win
-0.0.0.0 myapps.classlink.suredoc.net
 0.0.0.0 ams01-n.surf-p.com
 0.0.0.0 dns.surfsharkdns.com
 0.0.0.0 bashful-stretch.surge.sh
@@ -5449,7 +5437,6 @@
 0.0.0.0 rammerhead-10.swanndvr.net
 0.0.0.0 interstellar.nana.swift.cl
 0.0.0.0 rammer.nana.swift.cl
-0.0.0.0 nana.ddx.v2.swift.cl
 0.0.0.0 sharp.swift.cl
 0.0.0.0 vpn.dev.swisscows.com
 0.0.0.0 vpn.swisscows.com
@@ -5480,7 +5467,6 @@
 0.0.0.0 doh.sz-dns.com
 0.0.0.0 math.tests.szk-obihiro.com
 0.0.0.0 dns.szpadel.ovh
-0.0.0.0 frog.szvy.win
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 dns.t53.de
 0.0.0.0 d0.tada.ly
@@ -5524,7 +5510,6 @@
 0.0.0.0 dns-br.leonardo.tec.br
 0.0.0.0 dns.techcpu.net
 0.0.0.0 dns1.techeasy.org
-0.0.0.0 llc.techmaxasia.com
 0.0.0.0 vpn.technicule.info
 0.0.0.0 dns1.techniverse.net
 0.0.0.0 vapor.techno.pics
@@ -5649,7 +5634,6 @@
 0.0.0.0 nsc.torgues.net
 0.0.0.0 center.k12.mo.us.tornotluk.in
 0.0.0.0 doh.totoro.pub
-0.0.0.0 khanacadamyregistry67.tovamiasto.com
 0.0.0.0 chronicle14.tplinkdns.com
 0.0.0.0 ebpmc.tplinkdns.com
 0.0.0.0 homes.tr25.cn
@@ -6126,7 +6110,6 @@
 0.0.0.0 register.zedzander.com
 0.0.0.0 dns.zemows.industries
 0.0.0.0 doh.zephyrus.id
-0.0.0.0 resturant.zereshkpolo.info
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 oraclejp01.zerotorez.com
 0.0.0.0 dns.zfsystem.tech
@@ -6333,7 +6316,6 @@
 0.0.0.0 368e8a60e648be18a93a3a7c322cd6bb.top
 0.0.0.0 369.cyou
 0.0.0.0 36d275bc57ffbb02dc36d89816fa5be369d66113.com
-0.0.0.0 37-94-704-33.ir
 0.0.0.0 3870fed631d7dd50d1057b4f5415bdd916dca9f9.com
 0.0.0.0 3a0ef7502f6406decbec8ed5abf2aed35780234b.com
 0.0.0.0 3b5216f351080d69e9421f5b80e2260294e2f87f.com
@@ -13721,7 +13703,6 @@
 0.0.0.0 sciences.run
 0.0.0.0 sciencesimplified.pro
 0.0.0.0 sciencevictory.com
-0.0.0.0 scientificsense.org
 0.0.0.0 scjzrku6zui5o9.online
 0.0.0.0 scottdylewski.com
 0.0.0.0 scrapbooking-directory.com
@@ -13733,7 +13714,6 @@
 0.0.0.0 sd04-bmbb7vmk.top
 0.0.0.0 sd2ffdsd43i.xyz
 0.0.0.0 sdmvipaff.cc
-0.0.0.0 sdusxwln.cc
 0.0.0.0 sdvizhkov.ru
 0.0.0.0 sdwkhwt4.com
 0.0.0.0 sdxnblze.com
@@ -13770,7 +13750,6 @@
 0.0.0.0 sedirepseh.com
 0.0.0.0 sedlink.online
 0.0.0.0 seed.st
-0.0.0.0 seed360.link
 0.0.0.0 seed4.me
 0.0.0.0 seed4me.app
 0.0.0.0 seed4me.help
@@ -13807,7 +13786,6 @@
 0.0.0.0 sfmcut.com
 0.0.0.0 sfsso.cn
 0.0.0.0 sgbssld.com
-0.0.0.0 sgwzoch.online
 0.0.0.0 sgypihqt.com
 0.0.0.0 shadeyouvpn.com
 0.0.0.0 shadowart.online
@@ -13830,7 +13808,6 @@
 0.0.0.0 shadowsocks.org
 0.0.0.0 shadowsocksvpn.net
 0.0.0.0 shadowsurf.com
-0.0.0.0 shaft.world
 0.0.0.0 shakdns.cc
 0.0.0.0 shakhle.ir
 0.0.0.0 shalenkov.cc
@@ -13909,7 +13886,6 @@
 0.0.0.0 sitenable.com
 0.0.0.0 sitenable.in
 0.0.0.0 sitenable.org
-0.0.0.0 sitescrack.host
 0.0.0.0 sitespeedtest.net
 0.0.0.0 sitesunblocked.com
 0.0.0.0 siteunblock.org
@@ -13967,7 +13943,6 @@
 0.0.0.0 snipermixer.com
 0.0.0.0 snookerwood.org
 0.0.0.0 snowproxy.com
-0.0.0.0 snuvtek.xyz
 0.0.0.0 soax.com
 0.0.0.0 social-welfare.us
 0.0.0.0 socialnetworkinfo.us
@@ -13997,7 +13972,6 @@
 0.0.0.0 spacedns.org
 0.0.0.0 spacevpn.io
 0.0.0.0 spbyjzu.cn
-0.0.0.0 speedboost.website
 0.0.0.0 speedcat.info
 0.0.0.0 speedcatjc.com
 0.0.0.0 speedcn.in
@@ -14038,12 +14012,10 @@
 0.0.0.0 sportsballhub.com
 0.0.0.0 sportvideo24.ru
 0.0.0.0 springmultimedia.space
-0.0.0.0 spwvpn.com
 0.0.0.0 spyoff.com
 0.0.0.0 spys.one
 0.0.0.0 spysurfing.com
 0.0.0.0 sq-free.com
-0.0.0.0 sqijlpe.cn
 0.0.0.0 sqth8tqn.com
 0.0.0.0 squall.cc
 0.0.0.0 squidmall.vip
@@ -14093,7 +14065,6 @@
 0.0.0.0 stage-ngrok.com
 0.0.0.0 star01-cmzdkkce.top
 0.0.0.0 star02-v9gthntc.top
-0.0.0.0 starblazer.buzz
 0.0.0.0 stardream.co
 0.0.0.0 stargate.one
 0.0.0.0 starlink9527.com
@@ -14323,7 +14294,6 @@
 0.0.0.0 talkfirst.ru
 0.0.0.0 talopruoqlzaok.lat
 0.0.0.0 tannel.cc
-0.0.0.0 tannel.xyz
 0.0.0.0 tanz.website
 0.0.0.0 tanz01-5bqcto3e.top
 0.0.0.0 tanz02-mjx21vgl.top
@@ -14437,7 +14407,6 @@
 0.0.0.0 tianhang.site
 0.0.0.0 tiar.app
 0.0.0.0 tiarap.org
-0.0.0.0 tiecxghg.cc
 0.0.0.0 tifa.cc
 0.0.0.0 tifa1.top
 0.0.0.0 tifa2.top
@@ -14463,7 +14432,6 @@
 0.0.0.0 tiptopvpn.biz
 0.0.0.0 tiptopvpn.info
 0.0.0.0 tiptopvpn.net
-0.0.0.0 tiptopvpn.org
 0.0.0.0 tiptopvpn.xyz
 0.0.0.0 tiptopvps.help
 0.0.0.0 tipvpn.help
@@ -14478,7 +14446,6 @@
 0.0.0.0 tizidajian.com
 0.0.0.0 tk31z.com
 0.0.0.0 tkgf2.cn
-0.0.0.0 tksvvrbc.cc
 0.0.0.0 tlgrms.net
 0.0.0.0 tlkqiaax.com
 0.0.0.0 tlsext.com
@@ -14527,11 +14494,9 @@
 0.0.0.0 topvpnguides.com
 0.0.0.0 tor2web.fi
 0.0.0.0 tor2web.io
-0.0.0.0 tor2web.it
 0.0.0.0 tor2web.org
 0.0.0.0 tor2web.ru
 0.0.0.0 tor2web.to
-0.0.0.0 torbad.ir
 0.0.0.0 torguard.biz
 0.0.0.0 torguard.co
 0.0.0.0 torguard.com
