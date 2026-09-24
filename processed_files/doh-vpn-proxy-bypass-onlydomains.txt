@@ -1059,10 +1059,6 @@
 0.0.0.0 dns.charraud.eu
 0.0.0.0 adguard.chaudharyarnav.com
 0.0.0.0 ir.cheap-ass-domain.info
-0.0.0.0 85.133.236.130.checker-domain.ir
-0.0.0.0 85.133.236.131.checker-domain.ir
-0.0.0.0 85.133.236.132.checker-domain.ir
-0.0.0.0 85.133.236.133.checker-domain.ir
 0.0.0.0 v.cheerfun.dev
 0.0.0.0 dns.chenu.ch
 0.0.0.0 adguard.chestnov.ru
@@ -1888,7 +1884,6 @@
 0.0.0.0 noon.begir.co.uk
 0.0.0.0 panir.begir.co.uk
 0.0.0.0 media.benzcls.co.uk
-0.0.0.0 public.benzcls.co.uk
 0.0.0.0 iranian.billblog.co.uk
 0.0.0.0 educationbooks.boxrepublic.co.za
 0.0.0.0 adguard.cell.co.id
@@ -1901,7 +1896,6 @@
 0.0.0.0 dns-02.computerservices.co.nz
 0.0.0.0 adg.datamatter.co.za
 0.0.0.0 pihole.datamatter.co.za
-0.0.0.0 paeez.delroba.co.uk
 0.0.0.0 adguard.discounthost.co.uk
 0.0.0.0 im.dumaniltd.co.uk
 0.0.0.0 dns.eliv.co.kr
@@ -1934,6 +1928,7 @@
 0.0.0.0 leomessi.goooalir.co.uk
 0.0.0.0 meshki.goooalir.co.uk
 0.0.0.0 nab.goooalir.co.uk
+0.0.0.0 napoli.goooalir.co.uk
 0.0.0.0 narooo.goooalir.co.uk
 0.0.0.0 nigan.goooalir.co.uk
 0.0.0.0 paydar.goooalir.co.uk
@@ -1996,6 +1991,8 @@
 0.0.0.0 dns.nzxti5.co.uk
 0.0.0.0 dns.oliviertv.co.za
 0.0.0.0 golden.peachsoft.co.uk
+0.0.0.0 adam.poolaki.co.uk
+0.0.0.0 nasho.poolaki.co.uk
 0.0.0.0 chrismylove.qr-code.co.za
 0.0.0.0 lightspeed.qr-code.co.za
 0.0.0.0 mathnotes.qr-code.co.za
@@ -2044,6 +2041,7 @@
 0.0.0.0 din5gli2.co.uk
 0.0.0.0 dingi3.co.uk
 0.0.0.0 diskcrmvpn.co.cc
+0.0.0.0 exiscos.co.uk
 0.0.0.0 hax.co.id
 0.0.0.0 hidemyass.co.uk
 0.0.0.0 insteadvpn.co.cc
@@ -3430,8 +3428,6 @@
 0.0.0.0 sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 0.0.0.0 dns.hellozhao.com
 0.0.0.0 vibecoding.help4bali.org
-0.0.0.0 gateway.helps.help
-0.0.0.0 status.helps.help
 0.0.0.0 dns.henek.ru
 0.0.0.0 dns.herkhof.nl
 0.0.0.0 betternet-backend.herokuapp.com
@@ -4069,6 +4065,7 @@
 0.0.0.0 orau.lz0724.com
 0.0.0.0 orjp4.lz0724.com
 0.0.0.0 addns1.m-it.ro
+0.0.0.0 ir.macauley.info
 0.0.0.0 purchase.machines.asia
 0.0.0.0 v971850.macloud.host
 0.0.0.0 dns.mafyuh.io
@@ -4157,7 +4154,6 @@
 0.0.0.0 s47n.ir.ir.ir.meli-n12.info
 0.0.0.0 s7n.ir.ir.ir.meli-n12.info
 0.0.0.0 sn.ir.ir.ir.meli-n12.info
-0.0.0.0 277ddd1.mmd1.meli-n12.info
 0.0.0.0 2hhddd1.mmd1.meli-n12.info
 0.0.0.0 2uuddd1.mmd1.meli-n12.info
 0.0.0.0 2yyddd1.mmd1.meli-n12.info
@@ -4197,7 +4193,6 @@
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 api.miningbest.com
 0.0.0.0 example.miosen.cyou
-0.0.0.0 iran.miosen.cyou
 0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
 0.0.0.0 netcup.mismat.ch
@@ -4422,6 +4417,7 @@
 0.0.0.0 darklight.neo-space.space
 0.0.0.0 s01.neo-trading.org
 0.0.0.0 s02.neo-trading.org
+0.0.0.0 s03.neo-trading.org
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 positif4.cross.net.id
 0.0.0.0 guard-jkt-225.glosindo.net.id
@@ -4962,7 +4958,6 @@
 0.0.0.0 home.qbak.net
 0.0.0.0 adk.qcloud.work
 0.0.0.0 dns.qkc.fr
-0.0.0.0 ir.qkzheng.info
 0.0.0.0 dns.qpt.one
 0.0.0.0 dns2.qpt.one
 0.0.0.0 httpdns.kg.qq.com
@@ -5634,6 +5629,7 @@
 0.0.0.0 adguard.tetnet.net
 0.0.0.0 test.texasmath.org
 0.0.0.0 cloud.tezoi.com
+0.0.0.0 just-iraninan.com.the-nice-mtproto.info
 0.0.0.0 www.3.theartieschaffer.com
 0.0.0.0 www.94.theartieschaffer.com
 0.0.0.0 www.p.theartieschaffer.com
@@ -6110,7 +6106,6 @@
 0.0.0.0 gog.xena.wtf
 0.0.0.0 www-bruh.xenon.lol
 0.0.0.0 vsrv15195.customer.xenway.de
-0.0.0.0 ir.xeonxu.info
 0.0.0.0 doh2.gslb2.xfinity.com
 0.0.0.0 doh.xfinity.com
 0.0.0.0 dot.xfinity.com
@@ -6203,6 +6198,7 @@
 0.0.0.0 httpdns.zhihu.com
 0.0.0.0 doh.zhongbr.uk
 0.0.0.0 for.iranian.ir.zigoraaat.info
+0.0.0.0 for.you.ir.zigoraaat.info
 0.0.0.0 res.zijji.com
 0.0.0.0 adguard01.zitronen-server.de
 0.0.0.0 greenfahhh.zjhmz.cn
@@ -11425,6 +11421,7 @@
 0.0.0.0 kopcm.ru
 0.0.0.0 korannarrow.com
 0.0.0.0 korzhov.dev
+0.0.0.0 kostyanchekloh.lol
 0.0.0.0 koxy.de
 0.0.0.0 koyeb.app
 0.0.0.0 kproxy.asia
